@@ -34,7 +34,7 @@ Throughout the project, we had use several packages as follows:
 https://limweiyeong99.shinyapps.io/grade/
 
 ## **Link to the presentation slide**
-
+https://rpubs.com/YeongLim/present_grade
 
 ## **Link to the report in markdown format**
 https://rpubs.com/YeongLim/grade
