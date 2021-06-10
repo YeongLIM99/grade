@@ -108,7 +108,7 @@ p2 <- p2 + labs(title="Plot of Guardian against Average result", x="Guardian", y
 p2
 
 # remove column Guardian, Mother's job, and Father's job
-d1 <- d1[-c(1,7,8,9)]
+d1 <- d1[-c(1,8,9,10)]
 
 # check for the data before storing
 summary(d1)
