@@ -119,7 +119,7 @@ ui <- dashboardPage(
                         box(
                             width = 12,
                             title = "Want to understand more?",
-                            h3("Please go to the link: https://github.com/YeongLIM99/grade")
+                            a("Click here to Github", href="https://github.com/YeongLIM99/grade")
                         )
                     )
             ),
