@@ -114,6 +114,13 @@ ui <- dashboardPage(
                             title = "Data Dictionary",
                             tableOutput("details")
                         )
+                    ),
+                    fluidRow(
+                        box(
+                            width = 12,
+                            title = "Want to understand more?",
+                            h3("Please go to the link: https://github.com/YeongLIM99/grade")
+                        )
                     )
             ),
             tabItem(tabName = "graph",
