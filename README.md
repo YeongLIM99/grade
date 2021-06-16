@@ -44,7 +44,9 @@ https://rpubs.com/YeongLim/grade
 
 ### 1. **Problem and Objective Definition**
 i.   What are the factors that can affect grade of students?
+
 ii.  How much do these factors affect grade of the students?
+
 iii. What is the relationship between these factors?
 
 ### 2. **Data Acquisition**
