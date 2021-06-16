@@ -19,7 +19,7 @@ Group 6
 ## Introduction
 Academic performance of students is always a concern not only to themselves, but also to their parents, teacher and society once they enter working environment. There is a lot of factors that are actually affecting the students in concentrating to their academic subjects, cause a bad result overally. This project is done to investigate on them.
 
-## Problem Statement/ Questions proposed
+## Questions proposed
 i.   What are the factors that can affect grade of students?
 ii.  How much do these factors affect grade of the students?
 iii. What is the relationship between these factors?
